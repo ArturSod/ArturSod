@@ -23,6 +23,7 @@
  <a href="https://discord.gg/PmJVW6EX" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:artursbastos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/artur-sodre-bastos-727622254/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <img src="https://github.com/ArturSod/ArturSod/blob/main/Link8bits.gif?raw=true"/>
  
   ![Snake animation](https://github.com/ArturSod/ArturSod/blob/output/github-contribution-grid-snake.svg)
 
