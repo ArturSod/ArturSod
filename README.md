@@ -1,13 +1,21 @@
+<h1 align="center">
 ## Bem-vindo(a) ao meu perfil
-<img src="https://github.com/ArturSod/ArturSod/blob/main/github.gif?raw=true"/>
- <div>
-   <a href="https://github.com/ArturSod">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturSod&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-   <img weight="20em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturSod&layout=compact&langs_count=6&theme=transparent"/>
+</h1>
 
-</div>
+<p align="center">
+ <img height="400em" src="https://github.com/ArturSod/ArturSod/blob/main/github.gif?raw=true"/>
+ </p>
+ 
+ <div>
+  <p align="center">
+   <a href="https://github.com/ArturSod">
+   <img height="280em" src="https://github-readme-stats.vercel.app/api?username=ArturSod&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturSod&layout=compact&langs_count=6&theme=transparent"/>
+  </p>
+ </div>
+ 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="32" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Java" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
