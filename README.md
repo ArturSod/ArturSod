@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
- <img height="400em" src="https://github.com/ArturSod/ArturSod/blob/main/github.gif?raw=true"/>
+ <img height="395em" src="https://github.com/ArturSod/ArturSod/blob/main/github.gif?raw=true"/>
  </p>
  
  <div>
