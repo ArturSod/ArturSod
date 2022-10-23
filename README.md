@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao meu perfil
-<img src="https://github.com/ArturSod/ArturSod/blob/main/github.gif?raw=true"/>
+<img align="center" src="https://github.com/ArturSod/ArturSod/blob/main/github.gif?raw=true"/>
  <div>
    <a href="https://github.com/ArturSod">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturSod&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
