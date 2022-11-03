@@ -1,5 +1,5 @@
 <h1 align="center">
-## Bem-vindo(a) ao meu perfil
+## Welcome to my profile!
 </h1>
 
 <p align="center">
